@@ -1,5 +1,4 @@
 import page from 'page';
-import Ractive from 'ractive';
 
 function navigationHandler(routeHandler, onNavigation) {
 	return function(context/*, next*/) {
